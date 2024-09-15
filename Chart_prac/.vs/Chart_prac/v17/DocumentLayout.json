@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Robin\\Desktop\\c# practice\\Chart_prac\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A14D1262-10F8-4D16-B9EA-CAAF0D37A42C}|Chart_prac\\Chart_prac.csproj|c:\\users\\robin\\desktop\\c# practice\\chart_prac\\chart_prac\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A14D1262-10F8-4D16-B9EA-CAAF0D37A42C}|Chart_prac\\Chart_prac.csproj|solutionrelative:chart_prac\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A14D1262-10F8-4D16-B9EA-CAAF0D37A42C}|Chart_prac\\Chart_prac.csproj|C:\\Users\\Robin\\Desktop\\c# practice\\Chart_prac\\chart_prac\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A14D1262-10F8-4D16-B9EA-CAAF0D37A42C}|Chart_prac\\Chart_prac.csproj|solutionrelative:chart_prac\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Robin\\Desktop\\c# practice\\Chart_prac\\Chart_prac\\Form1.cs",
+              "RelativeDocumentMoniker": "Chart_prac\\Form1.cs",
+              "ToolTip": "C:\\Users\\Robin\\Desktop\\c# practice\\Chart_prac\\Chart_prac\\Form1.cs",
+              "RelativeToolTip": "Chart_prac\\Form1.cs",
+              "ViewState": "AQIAAOQAAAAAAAAAAAAtwPUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-30T07:43:08.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\Robin\\Desktop\\c# practice\\Chart_prac\\Chart_prac\\Form1.cs",
+              "RelativeDocumentMoniker": "Chart_prac\\Form1.cs",
+              "ToolTip": "C:\\Users\\Robin\\Desktop\\c# practice\\Chart_prac\\Chart_prac\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Chart_prac\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-30T07:41:21.386Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

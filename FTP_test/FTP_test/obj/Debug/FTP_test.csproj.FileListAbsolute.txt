@@ -1,0 +1,14 @@
+D:\현재 프로젝트 모음\c#\FTP_test\FTP_test\bin\Debug\FTP_test.exe.config
+D:\현재 프로젝트 모음\c#\FTP_test\FTP_test\bin\Debug\FTP_test.exe
+D:\현재 프로젝트 모음\c#\FTP_test\FTP_test\bin\Debug\FTP_test.pdb
+D:\현재 프로젝트 모음\c#\FTP_test\FTP_test\obj\Debug\FTP_test.csproj.AssemblyReference.cache
+D:\현재 프로젝트 모음\c#\FTP_test\FTP_test\obj\Debug\FTP_test.Form1.resources
+D:\현재 프로젝트 모음\c#\FTP_test\FTP_test\obj\Debug\FTP_test.Properties.Resources.resources
+D:\현재 프로젝트 모음\c#\FTP_test\FTP_test\obj\Debug\FTP_test.csproj.GenerateResource.cache
+D:\현재 프로젝트 모음\c#\FTP_test\FTP_test\obj\Debug\FTP_test.csproj.CoreCompileInputs.cache
+D:\현재 프로젝트 모음\c#\FTP_test\FTP_test\obj\Debug\FTP_test.exe
+D:\현재 프로젝트 모음\c#\FTP_test\FTP_test\obj\Debug\FTP_test.pdb
+D:\현재 프로젝트 모음\c#\FTP_test\FTP_test\obj\Debug\FTP_test.Form2.resources
+D:\현재 프로젝트 모음\c#\FTP_test\FTP_test\bin\Debug\GenApiDotNet40_v3_4.dll
+D:\현재 프로젝트 모음\c#\FTP_test\FTP_test\bin\Debug\StApiDotNet40_v1_2.dll
+D:\현재 프로젝트 모음\c#\FTP_test\FTP_test\obj\Debug\FTP_test.csproj.CopyComplete

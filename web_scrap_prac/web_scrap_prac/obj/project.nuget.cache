@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UWSQJM7/5Y0FAfQjdG1TnTKbjIQsNl3GT3+cM3mL5X3uluEMs5SA7R73vaCXRSIVVTDgHRg1V3yKMPvrFLnnRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Robin\\Desktop\\c# practice\\web_scrap_prac\\web_scrap_prac\\web_scrap_prac.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Robin\\.nuget\\packages\\htmlagilitypack\\1.11.54\\htmlagilitypack.1.11.54.nupkg.sha512"
+  ],
+  "logs": []
+}

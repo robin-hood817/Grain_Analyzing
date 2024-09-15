@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Robin\\Desktop\\c# project\\\uD638\uB0A8 \uC885\uC790\uC6D0\\JSW_Honam_seed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{584617FD-B320-4F68-9220-56E1B5F9B746}|JSW_Honam_seed\\JSW_Honam_seed.csproj|c:\\users\\robin\\desktop\\c# project\\\uD638\uB0A8 \uC885\uC790\uC6D0\\jsw_honam_seed\\jsw_honam_seed\\frm_sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{584617FD-B320-4F68-9220-56E1B5F9B746}|JSW_Honam_seed\\JSW_Honam_seed.csproj|solutionrelative:jsw_honam_seed\\frm_sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584617FD-B320-4F68-9220-56E1B5F9B746}|JSW_Honam_seed\\JSW_Honam_seed.csproj|C:\\Users\\Robin\\Desktop\\c# project\\\uD638\uB0A8 \uC885\uC790\uC6D0\\JSW_Honam_seed\\jsw_honam_seed\\frm_sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{584617FD-B320-4F68-9220-56E1B5F9B746}|JSW_Honam_seed\\JSW_Honam_seed.csproj|solutionrelative:jsw_honam_seed\\frm_sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584617FD-B320-4F68-9220-56E1B5F9B746}|JSW_Honam_seed\\JSW_Honam_seed.csproj|C:\\Users\\Robin\\Desktop\\c# project\\\uD638\uB0A8 \uC885\uC790\uC6D0\\JSW_Honam_seed\\jsw_honam_seed\\tcp_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{584617FD-B320-4F68-9220-56E1B5F9B746}|JSW_Honam_seed\\JSW_Honam_seed.csproj|solutionrelative:jsw_honam_seed\\tcp_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584617FD-B320-4F68-9220-56E1B5F9B746}|JSW_Honam_seed\\JSW_Honam_seed.csproj|C:\\Users\\Robin\\Desktop\\c# project\\\uD638\uB0A8 \uC885\uC790\uC6D0\\JSW_Honam_seed\\jsw_honam_seed\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{584617FD-B320-4F68-9220-56E1B5F9B746}|JSW_Honam_seed\\JSW_Honam_seed.csproj|solutionrelative:jsw_honam_seed\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584617FD-B320-4F68-9220-56E1B5F9B746}|JSW_Honam_seed\\JSW_Honam_seed.csproj|C:\\Users\\Robin\\Desktop\\c# project\\\uD638\uB0A8 \uC885\uC790\uC6D0\\JSW_Honam_seed\\jsw_honam_seed\\frm_loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{584617FD-B320-4F68-9220-56E1B5F9B746}|JSW_Honam_seed\\JSW_Honam_seed.csproj|solutionrelative:jsw_honam_seed\\frm_loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584617FD-B320-4F68-9220-56E1B5F9B746}|JSW_Honam_seed\\JSW_Honam_seed.csproj|C:\\Users\\Robin\\Desktop\\c# project\\\uD638\uB0A8 \uC885\uC790\uC6D0\\JSW_Honam_seed\\jsw_honam_seed\\frm_loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{584617FD-B320-4F68-9220-56E1B5F9B746}|JSW_Honam_seed\\JSW_Honam_seed.csproj|solutionrelative:jsw_honam_seed\\frm_loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584617FD-B320-4F68-9220-56E1B5F9B746}|JSW_Honam_seed\\JSW_Honam_seed.csproj|C:\\Users\\Robin\\Desktop\\c# project\\\uD638\uB0A8 \uC885\uC790\uC6D0\\JSW_Honam_seed\\jsw_honam_seed\\frm_sensor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{584617FD-B320-4F68-9220-56E1B5F9B746}|JSW_Honam_seed\\JSW_Honam_seed.csproj|solutionrelative:jsw_honam_seed\\frm_sensor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584617FD-B320-4F68-9220-56E1B5F9B746}|JSW_Honam_seed\\JSW_Honam_seed.csproj|C:\\Users\\Robin\\Desktop\\c# project\\\uD638\uB0A8 \uC885\uC790\uC6D0\\JSW_Honam_seed\\jsw_honam_seed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{584617FD-B320-4F68-9220-56E1B5F9B746}|JSW_Honam_seed\\JSW_Honam_seed.csproj|solutionrelative:jsw_honam_seed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Robin\\Desktop\\c# project\\\uD638\uB0A8 \uC885\uC790\uC6D0\\JSW_Honam_seed\\JSW_Honam_seed\\Program.cs",
+              "RelativeDocumentMoniker": "JSW_Honam_seed\\Program.cs",
+              "ToolTip": "C:\\Users\\Robin\\Desktop\\c# project\\\uD638\uB0A8 \uC885\uC790\uC6D0\\JSW_Honam_seed\\JSW_Honam_seed\\Program.cs",
+              "RelativeToolTip": "JSW_Honam_seed\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T12:44:41.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_Sensor.cs",
+              "DocumentMoniker": "C:\\Users\\Robin\\Desktop\\c# project\\\uD638\uB0A8 \uC885\uC790\uC6D0\\JSW_Honam_seed\\JSW_Honam_seed\\frm_Sensor.cs",
+              "RelativeDocumentMoniker": "JSW_Honam_seed\\frm_Sensor.cs",
+              "ToolTip": "C:\\Users\\Robin\\Desktop\\c# project\\\uD638\uB0A8 \uC885\uC790\uC6D0\\JSW_Honam_seed\\JSW_Honam_seed\\frm_Sensor.cs",
+              "RelativeToolTip": "JSW_Honam_seed\\frm_Sensor.cs",
+              "ViewState": "AQIAAOgDAAAAAAAAAAAAAO8DAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T12:44:42.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_Sensor.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\Robin\\Desktop\\c# project\\\uD638\uB0A8 \uC885\uC790\uC6D0\\JSW_Honam_seed\\JSW_Honam_seed\\frm_Sensor.cs",
+              "RelativeDocumentMoniker": "JSW_Honam_seed\\frm_Sensor.cs",
+              "ToolTip": "D:\\\uD604\uC7AC \uD504\uB85C\uC81D\uD2B8 \uBAA8\uC74C\\c#\\\uD638\uB0A8 \uC885\uC790\uC6D0\\JSW_Honam_seed\\JSW_Honam_seed\\frm_Sensor.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-08T12:44:42.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_Sensor.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Robin\\Desktop\\c# project\\\uD638\uB0A8 \uC885\uC790\uC6D0\\JSW_Honam_seed\\JSW_Honam_seed\\frm_Sensor.Designer.cs",
+              "RelativeDocumentMoniker": "JSW_Honam_seed\\frm_Sensor.Designer.cs",
+              "ToolTip": "C:\\Users\\Robin\\Desktop\\c# project\\\uD638\uB0A8 \uC885\uC790\uC6D0\\JSW_Honam_seed\\JSW_Honam_seed\\frm_Sensor.Designer.cs",
+              "RelativeToolTip": "JSW_Honam_seed\\frm_Sensor.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-09-08T12:44:42.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TCP_Class.cs",
+              "DocumentMoniker": "C:\\Users\\Robin\\Desktop\\c# project\\\uD638\uB0A8 \uC885\uC790\uC6D0\\JSW_Honam_seed\\JSW_Honam_seed\\TCP_Class.cs",
+              "RelativeDocumentMoniker": "JSW_Honam_seed\\TCP_Class.cs",
+              "ToolTip": "C:\\Users\\Robin\\Desktop\\c# project\\\uD638\uB0A8 \uC885\uC790\uC6D0\\JSW_Honam_seed\\JSW_Honam_seed\\TCP_Class.cs",
+              "RelativeToolTip": "JSW_Honam_seed\\TCP_Class.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAlwEYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T12:44:42.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_Loading.cs",
+              "DocumentMoniker": "C:\\Users\\Robin\\Desktop\\c# project\\\uD638\uB0A8 \uC885\uC790\uC6D0\\JSW_Honam_seed\\JSW_Honam_seed\\frm_Loading.cs",
+              "RelativeDocumentMoniker": "JSW_Honam_seed\\frm_Loading.cs",
+              "ToolTip": "C:\\Users\\Robin\\Desktop\\c# project\\\uD638\uB0A8 \uC885\uC790\uC6D0\\JSW_Honam_seed\\JSW_Honam_seed\\frm_Loading.cs",
+              "RelativeToolTip": "JSW_Honam_seed\\frm_Loading.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAlwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-08T12:44:42.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Robin\\Desktop\\c# project\\\uD638\uB0A8 \uC885\uC790\uC6D0\\JSW_Honam_seed\\JSW_Honam_seed\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "JSW_Honam_seed\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Robin\\Desktop\\c# project\\\uD638\uB0A8 \uC885\uC790\uC6D0\\JSW_Honam_seed\\JSW_Honam_seed\\Properties\\Resources.resx",
+              "RelativeToolTip": "JSW_Honam_seed\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002870|",
+              "WhenOpened": "2024-09-08T12:44:42.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frm_Loading.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\Robin\\Desktop\\c# project\\\uD638\uB0A8 \uC885\uC790\uC6D0\\JSW_Honam_seed\\JSW_Honam_seed\\frm_Loading.cs",
+              "RelativeDocumentMoniker": "JSW_Honam_seed\\frm_Loading.cs",
+              "ToolTip": "D:\\\uD604\uC7AC \uD504\uB85C\uC81D\uD2B8 \uBAA8\uC74C\\c#\\\uD638\uB0A8 \uC885\uC790\uC6D0\\JSW_Honam_seed\\JSW_Honam_seed\\frm_Loading.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-08T12:44:42.613Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

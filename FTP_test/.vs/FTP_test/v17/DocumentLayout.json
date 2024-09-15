@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Robin\\Desktop\\FTP_test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F1F3E7-C0DF-4BD4-9915-C630FF8EA42B}|FTP_test\\FTP_test.csproj|C:\\Users\\Robin\\Desktop\\FTP_test\\ftp_test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8F1F3E7-C0DF-4BD4-9915-C630FF8EA42B}|FTP_test\\FTP_test.csproj|solutionrelative:ftp_test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F1F3E7-C0DF-4BD4-9915-C630FF8EA42B}|FTP_test\\FTP_test.csproj|c:\\users\\robin\\desktop\\ftp_test\\ftp_test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F1F3E7-C0DF-4BD4-9915-C630FF8EA42B}|FTP_test\\FTP_test.csproj|solutionrelative:ftp_test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F1F3E7-C0DF-4BD4-9915-C630FF8EA42B}|FTP_test\\FTP_test.csproj|c:\\users\\robin\\desktop\\ftp_test\\ftp_test\\tcp_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F1F3E7-C0DF-4BD4-9915-C630FF8EA42B}|FTP_test\\FTP_test.csproj|solutionrelative:ftp_test\\tcp_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F1F3E7-C0DF-4BD4-9915-C630FF8EA42B}|FTP_test\\FTP_test.csproj|C:\\Users\\Robin\\Desktop\\FTP_test\\ftp_test\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F1F3E7-C0DF-4BD4-9915-C630FF8EA42B}|FTP_test\\FTP_test.csproj|solutionrelative:ftp_test\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F1F3E7-C0DF-4BD4-9915-C630FF8EA42B}|FTP_test\\FTP_test.csproj|C:\\Users\\Robin\\Desktop\\FTP_test\\ftp_test\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8F1F3E7-C0DF-4BD4-9915-C630FF8EA42B}|FTP_test\\FTP_test.csproj|solutionrelative:ftp_test\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TCP_Class.cs",
+              "DocumentMoniker": "C:\\Users\\Robin\\Desktop\\FTP_test\\FTP_test\\TCP_Class.cs",
+              "RelativeDocumentMoniker": "FTP_test\\TCP_Class.cs",
+              "ToolTip": "C:\\Users\\Robin\\Desktop\\FTP_test\\FTP_test\\TCP_Class.cs",
+              "RelativeToolTip": "FTP_test\\TCP_Class.cs",
+              "ViewState": "AQIAAL8AAAAAopmZmZkRwA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T12:14:43.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Robin\\Desktop\\FTP_test\\FTP_test\\Form2.cs",
+              "RelativeDocumentMoniker": "FTP_test\\Form2.cs",
+              "ToolTip": "C:\\Users\\Robin\\Desktop\\FTP_test\\FTP_test\\Form2.cs",
+              "RelativeToolTip": "FTP_test\\Form2.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAawB8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T12:11:42.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\Robin\\Desktop\\FTP_test\\FTP_test\\Form2.cs",
+              "RelativeDocumentMoniker": "FTP_test\\Form2.cs",
+              "ToolTip": "C:\\Users\\Robin\\Desktop\\FTP_test\\FTP_test\\Form2.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "FTP_test\\Form2.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T12:11:42.348Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Robin\\Desktop\\FTP_test\\FTP_test\\Form1.cs",
+              "RelativeDocumentMoniker": "FTP_test\\Form1.cs",
+              "ToolTip": "C:\\Users\\Robin\\Desktop\\FTP_test\\FTP_test\\Form1.cs",
+              "RelativeToolTip": "FTP_test\\Form1.cs",
+              "ViewState": "AQIAAKwAAAAAAJmZmZnpv0wCAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T12:11:42.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\Robin\\Desktop\\FTP_test\\FTP_test\\Form1.cs",
+              "RelativeDocumentMoniker": "FTP_test\\Form1.cs",
+              "ToolTip": "C:\\Users\\Robin\\Desktop\\FTP_test\\FTP_test\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "FTP_test\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T12:11:42.725Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

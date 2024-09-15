@@ -1,0 +1,11 @@
+C:\Users\Robin\Desktop\c# practice\datatable use\datatable use\bin\Debug\datatable use.exe.config
+C:\Users\Robin\Desktop\c# practice\datatable use\datatable use\bin\Debug\datatable use.exe
+C:\Users\Robin\Desktop\c# practice\datatable use\datatable use\bin\Debug\datatable use.pdb
+C:\Users\Robin\Desktop\c# practice\datatable use\datatable use\obj\Debug\datatable use.csproj.AssemblyReference.cache
+C:\Users\Robin\Desktop\c# practice\datatable use\datatable use\obj\Debug\datatable use.csproj.SuggestedBindingRedirects.cache
+C:\Users\Robin\Desktop\c# practice\datatable use\datatable use\obj\Debug\datatable_use.Form1.resources
+C:\Users\Robin\Desktop\c# practice\datatable use\datatable use\obj\Debug\datatable_use.Properties.Resources.resources
+C:\Users\Robin\Desktop\c# practice\datatable use\datatable use\obj\Debug\datatable use.csproj.GenerateResource.cache
+C:\Users\Robin\Desktop\c# practice\datatable use\datatable use\obj\Debug\datatable use.csproj.CoreCompileInputs.cache
+C:\Users\Robin\Desktop\c# practice\datatable use\datatable use\obj\Debug\datatable use.exe
+C:\Users\Robin\Desktop\c# practice\datatable use\datatable use\obj\Debug\datatable use.pdb

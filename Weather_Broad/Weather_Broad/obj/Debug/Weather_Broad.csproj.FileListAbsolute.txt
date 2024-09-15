@@ -1,0 +1,11 @@
+C:\Users\Robin\Desktop\c# practice\Weather_Broad\Weather_Broad\bin\Debug\Weather_Broad.exe.config
+C:\Users\Robin\Desktop\c# practice\Weather_Broad\Weather_Broad\bin\Debug\Weather_Broad.exe
+C:\Users\Robin\Desktop\c# practice\Weather_Broad\Weather_Broad\bin\Debug\Weather_Broad.pdb
+C:\Users\Robin\Desktop\c# practice\Weather_Broad\Weather_Broad\obj\Debug\Weather_Broad.csproj.AssemblyReference.cache
+C:\Users\Robin\Desktop\c# practice\Weather_Broad\Weather_Broad\obj\Debug\Weather_Broad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Robin\Desktop\c# practice\Weather_Broad\Weather_Broad\obj\Debug\Weather_Broad.Form1.resources
+C:\Users\Robin\Desktop\c# practice\Weather_Broad\Weather_Broad\obj\Debug\Weather_Broad.Properties.Resources.resources
+C:\Users\Robin\Desktop\c# practice\Weather_Broad\Weather_Broad\obj\Debug\Weather_Broad.csproj.GenerateResource.cache
+C:\Users\Robin\Desktop\c# practice\Weather_Broad\Weather_Broad\obj\Debug\Weather_Broad.csproj.CoreCompileInputs.cache
+C:\Users\Robin\Desktop\c# practice\Weather_Broad\Weather_Broad\obj\Debug\Weather_Broad.exe
+C:\Users\Robin\Desktop\c# practice\Weather_Broad\Weather_Broad\obj\Debug\Weather_Broad.pdb

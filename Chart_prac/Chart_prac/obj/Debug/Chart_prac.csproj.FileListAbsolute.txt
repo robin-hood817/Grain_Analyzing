@@ -1,0 +1,10 @@
+C:\Users\Robin\Desktop\c# practice\Chart_prac\Chart_prac\bin\Debug\Chart_prac.exe.config
+C:\Users\Robin\Desktop\c# practice\Chart_prac\Chart_prac\bin\Debug\Chart_prac.exe
+C:\Users\Robin\Desktop\c# practice\Chart_prac\Chart_prac\bin\Debug\Chart_prac.pdb
+C:\Users\Robin\Desktop\c# practice\Chart_prac\Chart_prac\obj\Debug\Chart_prac.csproj.AssemblyReference.cache
+C:\Users\Robin\Desktop\c# practice\Chart_prac\Chart_prac\obj\Debug\Chart_prac.Form1.resources
+C:\Users\Robin\Desktop\c# practice\Chart_prac\Chart_prac\obj\Debug\Chart_prac.Properties.Resources.resources
+C:\Users\Robin\Desktop\c# practice\Chart_prac\Chart_prac\obj\Debug\Chart_prac.csproj.GenerateResource.cache
+C:\Users\Robin\Desktop\c# practice\Chart_prac\Chart_prac\obj\Debug\Chart_prac.csproj.CoreCompileInputs.cache
+C:\Users\Robin\Desktop\c# practice\Chart_prac\Chart_prac\obj\Debug\Chart_prac.exe
+C:\Users\Robin\Desktop\c# practice\Chart_prac\Chart_prac\obj\Debug\Chart_prac.pdb

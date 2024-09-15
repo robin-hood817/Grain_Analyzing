@@ -1,0 +1,13 @@
+C:\Users\Robin\Desktop\c# practice\Get_Excel\Get_Excel\bin\Debug\Get_Excel.exe.config
+C:\Users\Robin\Desktop\c# practice\Get_Excel\Get_Excel\bin\Debug\Get_Excel.exe
+C:\Users\Robin\Desktop\c# practice\Get_Excel\Get_Excel\bin\Debug\Get_Excel.pdb
+C:\Users\Robin\Desktop\c# practice\Get_Excel\Get_Excel\obj\Debug\Get_Excel.csproj.AssemblyReference.cache
+C:\Users\Robin\Desktop\c# practice\Get_Excel\Get_Excel\obj\Debug\Get_Excel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Robin\Desktop\c# practice\Get_Excel\Get_Excel\obj\Debug\Interop.FAXCOMEXLib.dll
+C:\Users\Robin\Desktop\c# practice\Get_Excel\Get_Excel\obj\Debug\Get_Excel.csproj.ResolveComReference.cache
+C:\Users\Robin\Desktop\c# practice\Get_Excel\Get_Excel\obj\Debug\Get_Excel.Form1.resources
+C:\Users\Robin\Desktop\c# practice\Get_Excel\Get_Excel\obj\Debug\Get_Excel.Properties.Resources.resources
+C:\Users\Robin\Desktop\c# practice\Get_Excel\Get_Excel\obj\Debug\Get_Excel.csproj.GenerateResource.cache
+C:\Users\Robin\Desktop\c# practice\Get_Excel\Get_Excel\obj\Debug\Get_Excel.csproj.CoreCompileInputs.cache
+C:\Users\Robin\Desktop\c# practice\Get_Excel\Get_Excel\obj\Debug\Get_Excel.exe
+C:\Users\Robin\Desktop\c# practice\Get_Excel\Get_Excel\obj\Debug\Get_Excel.pdb

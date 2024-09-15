@@ -1,0 +1,17 @@
+C:\Users\Robin\Desktop\c# practice\web_scrap_prac\web_scrap_prac\bin\Debug\net6.0\web_scrap_prac.exe
+C:\Users\Robin\Desktop\c# practice\web_scrap_prac\web_scrap_prac\bin\Debug\net6.0\web_scrap_prac.deps.json
+C:\Users\Robin\Desktop\c# practice\web_scrap_prac\web_scrap_prac\bin\Debug\net6.0\web_scrap_prac.runtimeconfig.json
+C:\Users\Robin\Desktop\c# practice\web_scrap_prac\web_scrap_prac\bin\Debug\net6.0\web_scrap_prac.dll
+C:\Users\Robin\Desktop\c# practice\web_scrap_prac\web_scrap_prac\bin\Debug\net6.0\web_scrap_prac.pdb
+C:\Users\Robin\Desktop\c# practice\web_scrap_prac\web_scrap_prac\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\Robin\Desktop\c# practice\web_scrap_prac\web_scrap_prac\obj\Debug\net6.0\web_scrap_prac.csproj.AssemblyReference.cache
+C:\Users\Robin\Desktop\c# practice\web_scrap_prac\web_scrap_prac\obj\Debug\net6.0\web_scrap_prac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robin\Desktop\c# practice\web_scrap_prac\web_scrap_prac\obj\Debug\net6.0\web_scrap_prac.AssemblyInfoInputs.cache
+C:\Users\Robin\Desktop\c# practice\web_scrap_prac\web_scrap_prac\obj\Debug\net6.0\web_scrap_prac.AssemblyInfo.cs
+C:\Users\Robin\Desktop\c# practice\web_scrap_prac\web_scrap_prac\obj\Debug\net6.0\web_scrap_prac.csproj.CoreCompileInputs.cache
+C:\Users\Robin\Desktop\c# practice\web_scrap_prac\web_scrap_prac\obj\Debug\net6.0\web_scrap_prac.csproj.CopyComplete
+C:\Users\Robin\Desktop\c# practice\web_scrap_prac\web_scrap_prac\obj\Debug\net6.0\web_scrap_prac.dll
+C:\Users\Robin\Desktop\c# practice\web_scrap_prac\web_scrap_prac\obj\Debug\net6.0\refint\web_scrap_prac.dll
+C:\Users\Robin\Desktop\c# practice\web_scrap_prac\web_scrap_prac\obj\Debug\net6.0\web_scrap_prac.pdb
+C:\Users\Robin\Desktop\c# practice\web_scrap_prac\web_scrap_prac\obj\Debug\net6.0\web_scrap_prac.genruntimeconfig.cache
+C:\Users\Robin\Desktop\c# practice\web_scrap_prac\web_scrap_prac\obj\Debug\net6.0\ref\web_scrap_prac.dll

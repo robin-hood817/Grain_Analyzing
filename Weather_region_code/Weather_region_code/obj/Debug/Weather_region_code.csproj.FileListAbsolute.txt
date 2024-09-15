@@ -1,0 +1,12 @@
+C:\Users\Robin\Desktop\c# practice\Weather_region_code\Weather_region_code\bin\Debug\Weather_region_code.exe.config
+C:\Users\Robin\Desktop\c# practice\Weather_region_code\Weather_region_code\bin\Debug\Weather_region_code.exe
+C:\Users\Robin\Desktop\c# practice\Weather_region_code\Weather_region_code\bin\Debug\Weather_region_code.pdb
+C:\Users\Robin\Desktop\c# practice\Weather_region_code\Weather_region_code\obj\Debug\Weather_region_code.csproj.AssemblyReference.cache
+C:\Users\Robin\Desktop\c# practice\Weather_region_code\Weather_region_code\obj\Debug\Weather_region_code.csproj.SuggestedBindingRedirects.cache
+C:\Users\Robin\Desktop\c# practice\Weather_region_code\Weather_region_code\obj\Debug\Weather_region_code.Form1.resources
+C:\Users\Robin\Desktop\c# practice\Weather_region_code\Weather_region_code\obj\Debug\Weather_region_code.Properties.Resources.resources
+C:\Users\Robin\Desktop\c# practice\Weather_region_code\Weather_region_code\obj\Debug\Weather_region_code.csproj.GenerateResource.cache
+C:\Users\Robin\Desktop\c# practice\Weather_region_code\Weather_region_code\obj\Debug\Weather_region_code.csproj.CoreCompileInputs.cache
+C:\Users\Robin\Desktop\c# practice\Weather_region_code\Weather_region_code\obj\Debug\Weather_region_code.exe
+C:\Users\Robin\Desktop\c# practice\Weather_region_code\Weather_region_code\obj\Debug\Weather_region_code.pdb
+C:\Users\Robin\Desktop\c# practice\Weather_region_code\Weather_region_code\obj\Debug\Weather_region_code.Progress_Bar.resources

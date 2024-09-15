@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{611FCEBE-0AB0-44B6-8753-DA4342DE4ABD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Grain_Species_determination</RootNamespace>
+    <AssemblyName>Grain_Species_determination</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="GenApiDotNet40_v3_4, Version=3.4.0.0, Culture=neutral, PublicKeyToken=702a7d0a1d42e9d9, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\Common Files\OMRON_SENTECH\StApi\v1_2\Win32\bin\GenApiDotNet40_v3_4.dll</HintPath>
+    </Reference>
+    <Reference Include="StApiDotNet40_v1_2, Version=1.2.1.0, Culture=neutral, PublicKeyToken=702a7d0a1d42e9d9, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\Common Files\OMRON_SENTECH\StApi\v1_2\Win32\bin\StApiDotNet40_v1_2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frm_Analysis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Analysis.Designer.cs">
+      <DependentUpon>frm_Analysis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Learning.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Learning.Designer.cs">
+      <DependentUpon>frm_Learning.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Loading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Loading.designer.cs">
+      <DependentUpon>frm_Loading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Main.Designer.cs">
+      <DependentUpon>frm_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Register.Designer.cs">
+      <DependentUpon>frm_Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Search.Designer.cs">
+      <DependentUpon>frm_Search.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ini.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SentechEx.cs" />
+    <Compile Include="TCP_Class.cs" />
+    <EmbeddedResource Include="frm_Analysis.resx">
+      <DependentUpon>frm_Analysis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Learning.resx">
+      <DependentUpon>frm_Learning.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Loading.resx">
+      <DependentUpon>frm_Loading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Main.resx">
+      <DependentUpon>frm_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Register.resx">
+      <DependentUpon>frm_Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Search.resx">
+      <DependentUpon>frm_Search.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\Loading1920.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="NewFolder1\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\UI_image\Analysis_waiting.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\UI_image\p_Kind_Learning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\UI_image\n_Kind_Learning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\UI_image\p_Learning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\UI_image\n_Learning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\UI_image\Ask_N_waiting.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\UI_image\Learning_waiting.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\UI_image\p_Register.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\UI_image\n_Register.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\UI_image\Register.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\UI_image\Learning.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\UI_image\Main.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\UI_image\ex_register.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\UI_image\ex_Main.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\UI_image\ex_Learning.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\UI_image\n_confirm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\UI_image\p_confirm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\UI_image\p_exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\UI_image\n_exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\UI_image\p_take.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\UI_image\n_take.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\UI_image\p_Analysis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\UI_image\n_Analysis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\UI_image\All_Select.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\UI_image\Delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\UI_image\ex_Learning.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

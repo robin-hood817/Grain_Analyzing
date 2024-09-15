@@ -1,0 +1,53 @@
+D:\현재 프로젝트 모음\c#\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.csproj.AssemblyReference.cache
+D:\현재 프로젝트 모음\c#\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.Properties.Resources.resources
+D:\현재 프로젝트 모음\c#\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.csproj.GenerateResource.cache
+D:\현재 프로젝트 모음\c#\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.csproj.CoreCompileInputs.cache
+D:\현재 프로젝트 모음\c#\JSW_Honam_seed\JSW_Honam_seed\bin\Debug\JSW_Honam_seed.exe.config
+D:\현재 프로젝트 모음\c#\JSW_Honam_seed\JSW_Honam_seed\bin\Debug\JSW_Honam_seed.exe
+D:\현재 프로젝트 모음\c#\JSW_Honam_seed\JSW_Honam_seed\bin\Debug\JSW_Honam_seed.pdb
+D:\현재 프로젝트 모음\c#\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.exe
+D:\현재 프로젝트 모음\c#\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.pdb
+D:\현재 프로젝트 모음\c#\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.frm_Sensor.resources
+D:\#현재 프로젝트 모음\C#\JSW_Honam_seed\JSW_Honam_seed\bin\Debug\JSW_Honam_seed.exe.config
+D:\#현재 프로젝트 모음\C#\JSW_Honam_seed\JSW_Honam_seed\bin\Debug\JSW_Honam_seed.exe
+D:\#현재 프로젝트 모음\C#\JSW_Honam_seed\JSW_Honam_seed\bin\Debug\JSW_Honam_seed.pdb
+D:\#현재 프로젝트 모음\C#\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.csproj.AssemblyReference.cache
+D:\#현재 프로젝트 모음\C#\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.csproj.SuggestedBindingRedirects.cache
+D:\#현재 프로젝트 모음\C#\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.frm_Sensor.resources
+D:\#현재 프로젝트 모음\C#\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.Properties.Resources.resources
+D:\#현재 프로젝트 모음\C#\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.csproj.GenerateResource.cache
+D:\#현재 프로젝트 모음\C#\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.csproj.CoreCompileInputs.cache
+D:\#현재 프로젝트 모음\C#\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.exe
+D:\#현재 프로젝트 모음\C#\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.pdb
+C:\Users\user\Downloads\JSW_Honam_seed\JSW_Honam_seed\bin\Debug\JSW_Honam_seed.exe.config
+C:\Users\user\Downloads\JSW_Honam_seed\JSW_Honam_seed\bin\Debug\JSW_Honam_seed.exe
+C:\Users\user\Downloads\JSW_Honam_seed\JSW_Honam_seed\bin\Debug\JSW_Honam_seed.pdb
+C:\Users\user\Downloads\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.frm_Sensor.resources
+C:\Users\user\Downloads\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.Properties.Resources.resources
+C:\Users\user\Downloads\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.csproj.GenerateResource.cache
+C:\Users\user\Downloads\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.exe
+C:\Users\user\Downloads\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.pdb
+D:\현재 프로젝트 모음\c#\호남 종자원\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.csproj.AssemblyReference.cache
+D:\현재 프로젝트 모음\c#\호남 종자원\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.frm_Sensor.resources
+D:\현재 프로젝트 모음\c#\호남 종자원\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.Properties.Resources.resources
+D:\현재 프로젝트 모음\c#\호남 종자원\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.csproj.GenerateResource.cache
+D:\현재 프로젝트 모음\c#\호남 종자원\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.csproj.CoreCompileInputs.cache
+D:\현재 프로젝트 모음\c#\호남 종자원\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.exe
+D:\현재 프로젝트 모음\c#\호남 종자원\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.pdb
+D:\현재 프로젝트 모음\c#\호남 종자원\JSW_Honam_seed\JSW_Honam_seed\bin\Debug\JSW_Honam_seed.exe.config
+D:\현재 프로젝트 모음\c#\호남 종자원\JSW_Honam_seed\JSW_Honam_seed\bin\Debug\JSW_Honam_seed.exe
+D:\현재 프로젝트 모음\c#\호남 종자원\JSW_Honam_seed\JSW_Honam_seed\bin\Debug\JSW_Honam_seed.pdb
+D:\현재 프로젝트 모음\c#\호남 종자원\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.frm_Loading.resources
+C:\Users\Robin\Desktop\c# project\호남 종자원\JSW_Honam_seed\JSW_Honam_seed\bin\Debug\JSW_Honam_seed.exe.config
+C:\Users\Robin\Desktop\c# project\호남 종자원\JSW_Honam_seed\JSW_Honam_seed\bin\Debug\JSW_Honam_seed.exe
+C:\Users\Robin\Desktop\c# project\호남 종자원\JSW_Honam_seed\JSW_Honam_seed\bin\Debug\JSW_Honam_seed.pdb
+C:\Users\Robin\Desktop\c# project\호남 종자원\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.csproj.AssemblyReference.cache
+C:\Users\Robin\Desktop\c# project\호남 종자원\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.frm_Sensor.resources
+C:\Users\Robin\Desktop\c# project\호남 종자원\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.frm_Loading.resources
+C:\Users\Robin\Desktop\c# project\호남 종자원\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.Properties.Resources.resources
+C:\Users\Robin\Desktop\c# project\호남 종자원\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.csproj.GenerateResource.cache
+C:\Users\Robin\Desktop\c# project\호남 종자원\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.csproj.CoreCompileInputs.cache
+C:\Users\Robin\Desktop\c# project\호남 종자원\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.exe
+C:\Users\Robin\Desktop\c# project\호남 종자원\JSW_Honam_seed\JSW_Honam_seed\obj\Debug\JSW_Honam_seed.pdb

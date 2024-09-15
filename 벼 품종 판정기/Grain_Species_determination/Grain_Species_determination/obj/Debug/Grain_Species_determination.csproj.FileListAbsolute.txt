@@ -1,0 +1,45 @@
+C:\Users\Robin\Desktop\Grain_Species_determination\Grain_Species_determination\bin\Debug\Grain_Species_determination.exe.config
+C:\Users\Robin\Desktop\Grain_Species_determination\Grain_Species_determination\bin\Debug\Grain_Species_determination.exe
+C:\Users\Robin\Desktop\Grain_Species_determination\Grain_Species_determination\bin\Debug\Grain_Species_determination.pdb
+C:\Users\Robin\Desktop\Grain_Species_determination\Grain_Species_determination\obj\Debug\Grain_Species_determination.csproj.AssemblyReference.cache
+C:\Users\Robin\Desktop\Grain_Species_determination\Grain_Species_determination\obj\Debug\Grain_Species_determination.Form1.resources
+C:\Users\Robin\Desktop\Grain_Species_determination\Grain_Species_determination\obj\Debug\Grain_Species_determination.Properties.Resources.resources
+C:\Users\Robin\Desktop\Grain_Species_determination\Grain_Species_determination\obj\Debug\Grain_Species_determination.csproj.GenerateResource.cache
+C:\Users\Robin\Desktop\Grain_Species_determination\Grain_Species_determination\obj\Debug\Grain_Species_determination.csproj.CoreCompileInputs.cache
+C:\Users\Robin\Desktop\Grain_Species_determination\Grain_Species_determination\obj\Debug\Grain_Species_determination.exe
+C:\Users\Robin\Desktop\Grain_Species_determination\Grain_Species_determination\obj\Debug\Grain_Species_determination.pdb
+C:\Users\Robin\Desktop\Grain_Species_determination\Grain_Species_determination\obj\Debug\Grain_Species_determination.frm_Loading.resources
+D:\현재 프로젝트 모음\c#\Grain_Species_determination\Grain_Species_determination\bin\Debug\Grain_Species_determination.exe.config
+D:\현재 프로젝트 모음\c#\Grain_Species_determination\Grain_Species_determination\bin\Debug\Grain_Species_determination.exe
+D:\현재 프로젝트 모음\c#\Grain_Species_determination\Grain_Species_determination\bin\Debug\Grain_Species_determination.pdb
+D:\현재 프로젝트 모음\c#\Grain_Species_determination\Grain_Species_determination\obj\Debug\Grain_Species_determination.csproj.AssemblyReference.cache
+D:\현재 프로젝트 모음\c#\Grain_Species_determination\Grain_Species_determination\obj\Debug\Grain_Species_determination.frm_Main.resources
+D:\현재 프로젝트 모음\c#\Grain_Species_determination\Grain_Species_determination\obj\Debug\Grain_Species_determination.frm_Loading.resources
+D:\현재 프로젝트 모음\c#\Grain_Species_determination\Grain_Species_determination\obj\Debug\Grain_Species_determination.frm_Register.resources
+D:\현재 프로젝트 모음\c#\Grain_Species_determination\Grain_Species_determination\obj\Debug\Grain_Species_determination.Properties.Resources.resources
+D:\현재 프로젝트 모음\c#\Grain_Species_determination\Grain_Species_determination\obj\Debug\Grain_Species_determination.csproj.GenerateResource.cache
+D:\현재 프로젝트 모음\c#\Grain_Species_determination\Grain_Species_determination\obj\Debug\Grain_Species_determination.csproj.CoreCompileInputs.cache
+D:\현재 프로젝트 모음\c#\Grain_Species_determination\Grain_Species_determination\obj\Debug\Grain_Species_determination.exe
+D:\현재 프로젝트 모음\c#\Grain_Species_determination\Grain_Species_determination\obj\Debug\Grain_Species_determination.pdb
+D:\현재 프로젝트 모음\c#\Grain_Species_determination\Grain_Species_determination\obj\Debug\Grain_Species_determination.frm_Search.resources
+D:\현재 프로젝트 모음\c#\Grain_Species_determination\Grain_Species_determination\bin\Debug\GenApiDotNet40_v3_4.dll
+D:\현재 프로젝트 모음\c#\Grain_Species_determination\Grain_Species_determination\bin\Debug\StApiDotNet40_v1_2.dll
+D:\현재 프로젝트 모음\c#\Grain_Species_determination\Grain_Species_determination\obj\Debug\Grain_Species_determination.csproj.CopyComplete
+D:\현재 프로젝트 모음\c#\Grain_Species_determination\Grain_Species_determination\obj\Debug\Grain_Species_determination.frm_Processing.resources
+D:\현재 프로젝트 모음\c#\Grain_Species_determination\Grain_Species_determination\obj\Debug\Grain_Species_determination.frm_Analysis.resources
+C:\Users\Robin\Desktop\c# project\벼 품종 판정기\Grain_Species_determination\Grain_Species_determination\bin\Debug\Grain_Species_determination.exe.config
+C:\Users\Robin\Desktop\c# project\벼 품종 판정기\Grain_Species_determination\Grain_Species_determination\bin\Debug\Grain_Species_determination.exe
+C:\Users\Robin\Desktop\c# project\벼 품종 판정기\Grain_Species_determination\Grain_Species_determination\bin\Debug\Grain_Species_determination.pdb
+C:\Users\Robin\Desktop\c# project\벼 품종 판정기\Grain_Species_determination\Grain_Species_determination\obj\Debug\Grain_Species_determination.csproj.AssemblyReference.cache
+C:\Users\Robin\Desktop\c# project\벼 품종 판정기\Grain_Species_determination\Grain_Species_determination\obj\Debug\Grain_Species_determination.frm_Analysis.resources
+C:\Users\Robin\Desktop\c# project\벼 품종 판정기\Grain_Species_determination\Grain_Species_determination\obj\Debug\Grain_Species_determination.frm_Processing.resources
+C:\Users\Robin\Desktop\c# project\벼 품종 판정기\Grain_Species_determination\Grain_Species_determination\obj\Debug\Grain_Species_determination.frm_Loading.resources
+C:\Users\Robin\Desktop\c# project\벼 품종 판정기\Grain_Species_determination\Grain_Species_determination\obj\Debug\Grain_Species_determination.frm_Main.resources
+C:\Users\Robin\Desktop\c# project\벼 품종 판정기\Grain_Species_determination\Grain_Species_determination\obj\Debug\Grain_Species_determination.frm_Register.resources
+C:\Users\Robin\Desktop\c# project\벼 품종 판정기\Grain_Species_determination\Grain_Species_determination\obj\Debug\Grain_Species_determination.frm_Search.resources
+C:\Users\Robin\Desktop\c# project\벼 품종 판정기\Grain_Species_determination\Grain_Species_determination\obj\Debug\Grain_Species_determination.Properties.Resources.resources
+C:\Users\Robin\Desktop\c# project\벼 품종 판정기\Grain_Species_determination\Grain_Species_determination\obj\Debug\Grain_Species_determination.csproj.GenerateResource.cache
+C:\Users\Robin\Desktop\c# project\벼 품종 판정기\Grain_Species_determination\Grain_Species_determination\obj\Debug\Grain_Species_determination.csproj.CoreCompileInputs.cache
+C:\Users\Robin\Desktop\c# project\벼 품종 판정기\Grain_Species_determination\Grain_Species_determination\obj\Debug\Grain_Sp.72F1AFE6.Up2Date
+C:\Users\Robin\Desktop\c# project\벼 품종 판정기\Grain_Species_determination\Grain_Species_determination\obj\Debug\Grain_Species_determination.exe
+C:\Users\Robin\Desktop\c# project\벼 품종 판정기\Grain_Species_determination\Grain_Species_determination\obj\Debug\Grain_Species_determination.pdb

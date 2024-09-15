@@ -1,0 +1,13 @@
+C:\Users\Robin\Desktop\c# practice\Rest_API_practice\Rest_API_practice\obj\Debug\Rest_API_practice.csproj.AssemblyReference.cache
+C:\Users\Robin\Desktop\c# practice\Rest_API_practice\Rest_API_practice\obj\Debug\Rest_API_practice.Form1.resources
+C:\Users\Robin\Desktop\c# practice\Rest_API_practice\Rest_API_practice\obj\Debug\Rest_API_practice.Properties.Resources.resources
+C:\Users\Robin\Desktop\c# practice\Rest_API_practice\Rest_API_practice\obj\Debug\Rest_API_practice.csproj.GenerateResource.cache
+C:\Users\Robin\Desktop\c# practice\Rest_API_practice\Rest_API_practice\obj\Debug\Rest_API_practice.csproj.CoreCompileInputs.cache
+C:\Users\Robin\Desktop\c# practice\Rest_API_practice\Rest_API_practice\bin\Debug\Rest_API_practice.exe.config
+C:\Users\Robin\Desktop\c# practice\Rest_API_practice\Rest_API_practice\bin\Debug\Rest_API_practice.exe
+C:\Users\Robin\Desktop\c# practice\Rest_API_practice\Rest_API_practice\bin\Debug\Rest_API_practice.pdb
+C:\Users\Robin\Desktop\c# practice\Rest_API_practice\Rest_API_practice\obj\Debug\Rest_API_practice.exe
+C:\Users\Robin\Desktop\c# practice\Rest_API_practice\Rest_API_practice\obj\Debug\Rest_API_practice.pdb
+C:\Users\Robin\Desktop\c# practice\Rest_API_practice\Rest_API_practice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Robin\Desktop\c# practice\Rest_API_practice\Rest_API_practice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Robin\Desktop\c# practice\Rest_API_practice\Rest_API_practice\obj\Debug\Rest_API_practice.csproj.CopyComplete

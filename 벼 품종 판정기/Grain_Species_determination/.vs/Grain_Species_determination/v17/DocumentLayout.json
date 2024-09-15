@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Robin\\Desktop\\c# project\\\uBCBC \uD488\uC885 \uD310\uC815\uAE30\\Grain_Species_determination\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{611FCEBE-0AB0-44B6-8753-DA4342DE4ABD}|Grain_Species_determination\\Grain_Species_determination.csproj|c:\\users\\robin\\desktop\\c# project\\\uBCBC \uD488\uC885 \uD310\uC815\uAE30\\grain_species_determination\\grain_species_determination\\frm_analysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611FCEBE-0AB0-44B6-8753-DA4342DE4ABD}|Grain_Species_determination\\Grain_Species_determination.csproj|solutionrelative:grain_species_determination\\frm_analysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611FCEBE-0AB0-44B6-8753-DA4342DE4ABD}|Grain_Species_determination\\Grain_Species_determination.csproj|c:\\users\\robin\\desktop\\c# project\\\uBCBC \uD488\uC885 \uD310\uC815\uAE30\\grain_species_determination\\grain_species_determination\\frm_analysis.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611FCEBE-0AB0-44B6-8753-DA4342DE4ABD}|Grain_Species_determination\\Grain_Species_determination.csproj|solutionrelative:grain_species_determination\\frm_analysis.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611FCEBE-0AB0-44B6-8753-DA4342DE4ABD}|Grain_Species_determination\\Grain_Species_determination.csproj|c:\\users\\robin\\desktop\\c# project\\\uBCBC \uD488\uC885 \uD310\uC815\uAE30\\grain_species_determination\\grain_species_determination\\frm_analysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{611FCEBE-0AB0-44B6-8753-DA4342DE4ABD}|Grain_Species_determination\\Grain_Species_determination.csproj|solutionrelative:grain_species_determination\\frm_analysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611FCEBE-0AB0-44B6-8753-DA4342DE4ABD}|Grain_Species_determination\\Grain_Species_determination.csproj|C:\\Users\\Robin\\Desktop\\c# project\\\uBCBC \uD488\uC885 \uD310\uC815\uAE30\\Grain_Species_determination\\grain_species_determination\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{611FCEBE-0AB0-44B6-8753-DA4342DE4ABD}|Grain_Species_determination\\Grain_Species_determination.csproj|solutionrelative:grain_species_determination\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611FCEBE-0AB0-44B6-8753-DA4342DE4ABD}|Grain_Species_determination\\Grain_Species_determination.csproj|C:\\Users\\Robin\\Desktop\\c# project\\\uBCBC \uD488\uC885 \uD310\uC815\uAE30\\Grain_Species_determination\\grain_species_determination\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611FCEBE-0AB0-44B6-8753-DA4342DE4ABD}|Grain_Species_determination\\Grain_Species_determination.csproj|solutionrelative:grain_species_determination\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611FCEBE-0AB0-44B6-8753-DA4342DE4ABD}|Grain_Species_determination\\Grain_Species_determination.csproj|C:\\Users\\Robin\\Desktop\\c# project\\\uBCBC \uD488\uC885 \uD310\uC815\uAE30\\Grain_Species_determination\\grain_species_determination\\frm_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611FCEBE-0AB0-44B6-8753-DA4342DE4ABD}|Grain_Species_determination\\Grain_Species_determination.csproj|solutionrelative:grain_species_determination\\frm_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611FCEBE-0AB0-44B6-8753-DA4342DE4ABD}|Grain_Species_determination\\Grain_Species_determination.csproj|c:\\users\\robin\\desktop\\c# project\\\uBCBC \uD488\uC885 \uD310\uC815\uAE30\\grain_species_determination\\grain_species_determination\\frm_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{611FCEBE-0AB0-44B6-8753-DA4342DE4ABD}|Grain_Species_determination\\Grain_Species_determination.csproj|solutionrelative:grain_species_determination\\frm_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611FCEBE-0AB0-44B6-8753-DA4342DE4ABD}|Grain_Species_determination\\Grain_Species_determination.csproj|C:\\Users\\Robin\\Desktop\\c# project\\\uBCBC \uD488\uC885 \uD310\uC815\uAE30\\Grain_Species_determination\\grain_species_determination\\frm_loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{611FCEBE-0AB0-44B6-8753-DA4342DE4ABD}|Grain_Species_determination\\Grain_Species_determination.csproj|solutionrelative:grain_species_determination\\frm_loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611FCEBE-0AB0-44B6-8753-DA4342DE4ABD}|Grain_Species_determination\\Grain_Species_determination.csproj|C:\\Users\\Robin\\Desktop\\c# project\\\uBCBC \uD488\uC885 \uD310\uC815\uAE30\\Grain_Species_determination\\grain_species_determination\\frm_loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611FCEBE-0AB0-44B6-8753-DA4342DE4ABD}|Grain_Species_determination\\Grain_Species_determination.csproj|solutionrelative:grain_species_determination\\frm_loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611FCEBE-0AB0-44B6-8753-DA4342DE4ABD}|Grain_Species_determination\\Grain_Species_determination.csproj|C:\\Users\\Robin\\Desktop\\c# project\\\uBCBC \uD488\uC885 \uD310\uC815\uAE30\\Grain_Species_determination\\grain_species_determination\\tcp_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611FCEBE-0AB0-44B6-8753-DA4342DE4ABD}|Grain_Species_determination\\Grain_Species_determination.csproj|solutionrelative:grain_species_determination\\tcp_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_Analysis.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Robin\\Desktop\\c# project\\\uBCBC \uD488\uC885 \uD310\uC815\uAE30\\Grain_Species_determination\\Grain_Species_determination\\frm_Analysis.Designer.cs",
+              "RelativeDocumentMoniker": "Grain_Species_determination\\frm_Analysis.Designer.cs",
+              "ToolTip": "C:\\Users\\Robin\\Desktop\\c# project\\\uBCBC \uD488\uC885 \uD310\uC815\uAE30\\Grain_Species_determination\\Grain_Species_determination\\frm_Analysis.Designer.cs",
+              "RelativeToolTip": "Grain_Species_determination\\frm_Analysis.Designer.cs",
+              "ViewState": "AQIAANIBAAAAAAAAAAAUwNYBAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:39:03.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_Analysis.cs",
+              "DocumentMoniker": "C:\\Users\\Robin\\Desktop\\c# project\\\uBCBC \uD488\uC885 \uD310\uC815\uAE30\\Grain_Species_determination\\Grain_Species_determination\\frm_Analysis.cs",
+              "RelativeDocumentMoniker": "Grain_Species_determination\\frm_Analysis.cs",
+              "ToolTip": "C:\\Users\\Robin\\Desktop\\c# project\\\uBCBC \uD488\uC885 \uD310\uC815\uAE30\\Grain_Species_determination\\Grain_Species_determination\\frm_Analysis.cs",
+              "RelativeToolTip": "Grain_Species_determination\\frm_Analysis.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAnwCQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:59:07.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_Analysis.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\Robin\\Desktop\\c# project\\\uBCBC \uD488\uC885 \uD310\uC815\uAE30\\Grain_Species_determination\\Grain_Species_determination\\frm_Analysis.cs",
+              "RelativeDocumentMoniker": "Grain_Species_determination\\frm_Analysis.cs",
+              "ToolTip": "C:\\Users\\Robin\\Desktop\\c# project\\\uBCBC \uD488\uC885 \uD310\uC815\uAE30\\Grain_Species_determination\\Grain_Species_determination\\frm_Analysis.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Grain_Species_determination\\frm_Analysis.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:58:35.242Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frm_Register.cs",
+              "DocumentMoniker": "C:\\Users\\Robin\\Desktop\\c# project\\\uBCBC \uD488\uC885 \uD310\uC815\uAE30\\Grain_Species_determination\\Grain_Species_determination\\frm_Register.cs",
+              "RelativeDocumentMoniker": "Grain_Species_determination\\frm_Register.cs",
+              "ToolTip": "C:\\Users\\Robin\\Desktop\\c# project\\\uBCBC \uD488\uC885 \uD310\uC815\uAE30\\Grain_Species_determination\\Grain_Species_determination\\frm_Register.cs",
+              "RelativeToolTip": "Grain_Species_determination\\frm_Register.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAmwIsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T13:30:34.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_Register.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\Robin\\Desktop\\c# project\\\uBCBC \uD488\uC885 \uD310\uC815\uAE30\\Grain_Species_determination\\Grain_Species_determination\\frm_Register.cs",
+              "RelativeDocumentMoniker": "Grain_Species_determination\\frm_Register.cs",
+              "ToolTip": "C:\\Users\\Robin\\Desktop\\c# project\\\uBCBC \uD488\uC885 \uD310\uC815\uAE30\\Grain_Species_determination\\Grain_Species_determination\\frm_Register.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Grain_Species_determination\\frm_Register.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T06:48:21.619Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frm_Loading.cs",
+              "DocumentMoniker": "C:\\Users\\Robin\\Desktop\\c# project\\\uBCBC \uD488\uC885 \uD310\uC815\uAE30\\Grain_Species_determination\\Grain_Species_determination\\frm_Loading.cs",
+              "RelativeDocumentMoniker": "Grain_Species_determination\\frm_Loading.cs",
+              "ToolTip": "C:\\Users\\Robin\\Desktop\\c# project\\\uBCBC \uD488\uC885 \uD310\uC815\uAE30\\Grain_Species_determination\\Grain_Species_determination\\frm_Loading.cs",
+              "RelativeToolTip": "Grain_Species_determination\\frm_Loading.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAewCYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T06:32:52.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frm_Loading.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\Robin\\Desktop\\c# project\\\uBCBC \uD488\uC885 \uD310\uC815\uAE30\\Grain_Species_determination\\Grain_Species_determination\\frm_Loading.cs",
+              "RelativeDocumentMoniker": "Grain_Species_determination\\frm_Loading.cs",
+              "ToolTip": "C:\\Users\\Robin\\Desktop\\c# project\\\uBCBC \uD488\uC885 \uD310\uC815\uAE30\\Grain_Species_determination\\Grain_Species_determination\\frm_Loading.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Grain_Species_determination\\frm_Loading.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T06:32:37.934Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TCP_Class.cs",
+              "DocumentMoniker": "C:\\Users\\Robin\\Desktop\\c# project\\\uBCBC \uD488\uC885 \uD310\uC815\uAE30\\Grain_Species_determination\\Grain_Species_determination\\TCP_Class.cs",
+              "RelativeDocumentMoniker": "Grain_Species_determination\\TCP_Class.cs",
+              "ToolTip": "C:\\Users\\Robin\\Desktop\\c# project\\\uBCBC \uD488\uC885 \uD310\uC815\uAE30\\Grain_Species_determination\\Grain_Species_determination\\TCP_Class.cs",
+              "RelativeToolTip": "Grain_Species_determination\\TCP_Class.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAUwJcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T05:15:27.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_Main.cs",
+              "DocumentMoniker": "C:\\Users\\Robin\\Desktop\\c# project\\\uBCBC \uD488\uC885 \uD310\uC815\uAE30\\Grain_Species_determination\\Grain_Species_determination\\frm_Main.cs",
+              "RelativeDocumentMoniker": "Grain_Species_determination\\frm_Main.cs",
+              "ToolTip": "C:\\Users\\Robin\\Desktop\\c# project\\\uBCBC \uD488\uC885 \uD310\uC815\uAE30\\Grain_Species_determination\\Grain_Species_determination\\frm_Main.cs",
+              "RelativeToolTip": "Grain_Species_determination\\frm_Main.cs",
+              "ViewState": "AQIAACUCAAAAAAAAAAAhwC8CAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T03:12:42.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_Main.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\Robin\\Desktop\\c# project\\\uBCBC \uD488\uC885 \uD310\uC815\uAE30\\Grain_Species_determination\\Grain_Species_determination\\frm_Main.cs",
+              "RelativeDocumentMoniker": "Grain_Species_determination\\frm_Main.cs",
+              "ToolTip": "C:\\Users\\Robin\\Desktop\\c# project\\\uBCBC \uD488\uC885 \uD310\uC815\uAE30\\Grain_Species_determination\\Grain_Species_determination\\frm_Main.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Grain_Species_determination\\frm_Main.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T03:12:42.985Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

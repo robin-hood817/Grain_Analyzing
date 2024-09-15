@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{584617FD-B320-4F68-9220-56E1B5F9B746}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>JSW_Honam_seed</RootNamespace>
+    <AssemblyName>JSW_Honam_seed</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>vibe.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frm_Sensor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Sensor.Designer.cs">
+      <DependentUpon>frm_Sensor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ini.cs" />
+    <Compile Include="frm_Loading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Loading.Designer.cs">
+      <DependentUpon>frm_Loading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sensor_data.cs" />
+    <Compile Include="TCP_Class.cs" />
+    <EmbeddedResource Include="frm_Sensor.resx">
+      <DependentUpon>frm_Sensor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Loading.resx">
+      <DependentUpon>frm_Loading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\processing.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\label.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\gradient.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\진동센서 컬러\img_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\진동센서 컬러\img_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\진동센서 컬러\img_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\진동센서 컬러\img_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\진동센서 컬러\img_5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\진동센서 컬러\img_6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\진동센서 컬러\img_7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\진동센서 컬러\img_8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\진동센서 컬러\img_9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\진동센서 컬러\img_10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\진동센서 컬러\img_11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\진동센서 컬러\img_12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\진동센서 컬러\img_13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\진동센서 컬러\img_14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\진동센서 컬러\img_15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\진동센서 컬러\img_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\진동센서 컬러\img_17.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\진동센서 컬러\img_18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\진동센서 컬러\img_19.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\진동센서 컬러\img_20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\진동센서 컬러\img_21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\진동센서 컬러\img_22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\Flow_detect\KakaoTalk_20240729_150845351.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\Flow_detect\KakaoTalk_20240729_150845351_01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\Flow_detect\KakaoTalk_20240729_150845351_02.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\Flow_detect\KakaoTalk_20240729_150845351_03.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\Flow_detect\KakaoTalk_20240729_150845351_04.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\Flow_detect\KakaoTalk_20240729_150845351_05.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\Flow_detect\KakaoTalk_20240729_150845351_06.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\Flow_detect\KakaoTalk_20240729_150845351_07.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\Flow_detect\KakaoTalk_20240729_150845351_08.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\Flow_detect\stable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\Flow_detect\Block_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\Flow_detect\new_block.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\Flow_detect\Block_alert.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\Flow_detect\bg_eg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\Flow_detect\bg_nothing.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\Flow_detect\Active.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\Flow_detect\middleline.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bin\lg.gif" />
+    <None Include="bin\Debug\bin\Loading.gif" />
+    <None Include="bin\Debug\bin\Loading1920.gif" />
+    <Content Include="vibe.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
